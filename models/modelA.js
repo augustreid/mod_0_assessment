@@ -1,4 +1,4 @@
-var laptop {
+var laptop = {
   name: "Auggie's Laptop",
   brand: "Apple",
   ageInMonths: 1,
